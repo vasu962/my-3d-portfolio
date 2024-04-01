@@ -33,6 +33,7 @@ import era from "./company/era.png";
 import headphone from "./headphone.png";
 import music from "./music.png";
 import todo from "./todo.png";
+import prompt from "./prompt.png";
 
 // import carrent from "./carrent.png";
 // import jobit from "./jobit.png";
@@ -71,6 +72,7 @@ export {
   headphone,
   music,
   todo,
+  prompt,
   // carrent,
   // jobit,
   // tripguide,

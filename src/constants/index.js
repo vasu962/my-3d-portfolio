@@ -28,8 +28,9 @@ import {
   // jobit,
   // tripguide,
   headphone,
-  todo,
+  // todo,
   music,
+  prompt,
   threejs,
 } from '../assets';
 
@@ -280,25 +281,37 @@ const projects = [
     source_code_link: 'https://github.com/vasu962/music-player',
   },
   {
-    name: 'Keeper Application',
+    name: 'Promptwise',
     description:
-      'Todo list application just like google keep you keep your notes safe here.',
+      'It is an open source AI prompting tool for modern world that helps discover, create and share creative prompts using next-auth.',
     tags: [
       {
-        name: 'react',
+        name: 'mongodb',
         color: 'blue-text-gradient',
       },
       {
-        name: 'material-ui',
+        name: 'mongoose',
         color: 'green-text-gradient',
       },
-      // {
-      //   name: "css",
-      //   color: "pink-text-gradient",
-      // },
+      {
+        name: "nextjs",
+        color: "pink-text-gradient",
+      },
+      {
+        name: 'bcrypt',
+        color: 'blue-text-gradient',
+      },
+      {
+        name: 'tailwind',
+        color: 'green-text-gradient',
+      },
+      {
+        name: "next-auth",
+        color: "pink-text-gradient",
+      },
     ],
-    image: todo,
-    source_code_link: 'https://github.com/vasu962/keeper-app',
+    image: prompt,
+    source_code_link: 'https://github.com/vasu962/promptwise',
   },
 ];
 
