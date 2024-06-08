@@ -144,9 +144,10 @@ const experiences = [
     date: 'August 2021 - September 2022',
     points: [
       'Developed a full-stack application using React, Express, MongoDB, and Docker to analyze GitHub data.',
-      'Opened 26 issues, including bug reports, feature requests, and documentation improvements, and successfully closed 20 issues.',
+      'Opened 26 issues, including bug reports, feature requests, and documentation improvements, and successfully closed 20 issuess, Reduced issue resolution time by 50%.',
       'Was responsible for overseeing the club’s intersections with the public by implementing social media platform content strategies.',
-      'Communicated with back-end developers for any front-end problematic issues.',
+      'Collaborated with back-end developers to resolve front-end problematic issues.',
+      'Debugged and resolved issues in the frontend application, improving user experience and reducing error rates by 25%.',
     ],
   },
   // {
