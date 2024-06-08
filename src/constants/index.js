@@ -138,7 +138,7 @@ const technologies = [
 const experiences = [
   {
     title: 'Frontend developer',
-    company_name: 'Google Developer Student Clubs GEU',
+    company_name: 'Google Developer Students Clubs GEU',
     icon: era,
     iconBg: '#383E56',
     date: 'August 2021 - September 2022',
