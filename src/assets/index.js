@@ -29,6 +29,7 @@ import shopify from "./company/shopify.png";
 import starbucks from "./company/starbucks.png";
 import tesla from "./company/tesla.png";
 import era from "./company/era.png";
+import gdsc from "./company/gdsc.png"
 
 import headphone from "./headphone.png";
 import music from "./music.png";
@@ -73,6 +74,7 @@ export {
   music,
   todo,
   prompt,
+  gdsc,
   // carrent,
   // jobit,
   // tripguide,

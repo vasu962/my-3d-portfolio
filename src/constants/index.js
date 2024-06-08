@@ -22,7 +22,8 @@ import {
   // meta,
   // starbucks,
   // tesla,
-  era,
+  // era,
+  gdsc,
   // shopify,
   // carrent,
   // jobit,
@@ -139,8 +140,8 @@ const experiences = [
   {
     title: 'Frontend developer',
     company_name: 'Google Developer Students Clubs GEU',
-    icon: era,
-    iconBg: '#383E56',
+    icon: gdsc,
+    iconBg: '#E6DEDD',
     date: 'August 2021 - September 2022',
     points: [
       'Developed a full-stack application using React, Express, MongoDB, and Docker to analyze GitHub data.',
