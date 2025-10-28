@@ -23,7 +23,8 @@ import {
   // starbucks,
   // tesla,
   // era,
-  gdsc,
+  // gdsc,
+  docplix,
   // shopify,
   // carrent,
   // jobit,
@@ -140,7 +141,7 @@ const experiences = [
   {
     title: 'Frontend Developer Intern',
     company_name: 'Docplix',
-    icon: gdsc,
+    icon: docplix,
     iconBg: '#E6DEDD',
     date: 'April 2023 - June 2024',
     points: [

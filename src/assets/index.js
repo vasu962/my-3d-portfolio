@@ -30,6 +30,7 @@ import starbucks from "./company/starbucks.png";
 import tesla from "./company/tesla.png";
 import era from "./company/era.png";
 import gdsc from "./company/gdsc.png"
+import docplix from "./company/docplix.png"
 
 import headphone from "./headphone.png";
 import music from "./music.png";
@@ -75,6 +76,7 @@ export {
   todo,
   prompt,
   gdsc,
+  docplix,
   // carrent,
   // jobit,
   // tripguide,
