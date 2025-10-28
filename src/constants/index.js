@@ -138,17 +138,15 @@ const technologies = [
 
 const experiences = [
   {
-    title: 'Frontend developer',
-    company_name: 'Google Developer Students Clubs GEU',
+    title: 'Frontend Developer Intern',
+    company_name: 'Docplix',
     icon: gdsc,
     iconBg: '#E6DEDD',
-    date: 'August 2021 - September 2022',
+    date: 'April 2023 - June 2024',
     points: [
-      'Developed a full-stack application using React, Express, MongoDB, and Docker to analyze GitHub data.',
-      'Opened 26 issues, including bug reports, feature requests, and documentation improvements, and successfully closed 20 issuess, Reduced issue resolution time by 50%.',
-      'Was responsible for overseeing the club’s intersections with the public by implementing social media platform content strategies.',
-      'Collaborated with back-end developers to resolve front-end problematic issues.',
-      'Debugged and resolved issues in the frontend application, improving user experience and reducing error rates by 25%.',
+      'Built responsive and dynamic frontend components for EHR/EMR dashboards using React.js, Tailwind CSS, and TypeScript, enhancing accessibility across web and mobile devices.',
+      'Optimized performance and load times by 25% through efficient state management, code splitting, and API integration, improving user experience for healthcare professionals.',
+      'Collaborated with backend and design teams to integrate appointment booking, calendar views, and real-time updates, improving workflow efficiency for medical staff.',
     ],
   },
   // {
@@ -174,8 +172,8 @@ const experiences = [
   //     "Developing and maintaining web applications using React.js and other related technologies.",
   //     "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
   //     "Implementing responsive design and ensuring cross-browser compatibility.",
-  //     "Participating in code reviews and providing constructive feedback to other developers.",
-  //   ],
+    //   "Participating in code reviews and providing constructive feedback to other developers.",
+    // ],
   // },
   // {
   //   title: "Full stack Developer",
